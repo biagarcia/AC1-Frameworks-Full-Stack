@@ -1,3 +1,8 @@
+# Alunas:
+# Beatriz Garcia de Andrade 1904895
+# Thais de Lima Santos 1202134
+
+
 import os
 from flask import Flask, jsonify, request, render_template
 from math import sqrt
