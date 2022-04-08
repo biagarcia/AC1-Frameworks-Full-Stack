@@ -22,6 +22,10 @@ def calcular():
         return str(v1+v2)
     elif operacao == '-':
         return str(v1-v2)
+    elif operacao == '*':
+        return str(v1 * v2)
+    elif operacao == '/':
+        return str(v1 / v2)
 
 
 if __name__ == "__main__":
